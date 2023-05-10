@@ -8,6 +8,15 @@
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jinvita)](https://solved.ac/jinvita)
 <img src="http://mazandi.herokuapp.com/api?handle=jinvita&theme=dark"/>
 --
+```mermaid
+graph TD;
+machine-learning-->Data;
+machine-learning-->Algorithms;
+machine-learning-->Statistical-Models;
+machine-learning-->Feature-Engineering;
+machine-learning-->Evaluation-Metrics;
+machine-learning-->Deployment;
+```
 ### My Work
 ![2023-04-19 16_07_02 177582](https://user-images.githubusercontent.com/75659806/233022887-0ef4f9d9-d245-4c1e-9873-e28ba1f7b892.jpg)
 ### 👋 Bye there 
