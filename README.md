@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm a developer mainly doing . . .
 ![image](https://github.com/jin-vita/jin-vita/assets/75659806/30261768-a2c1-4659-84fb-6329790fb246)
-![flutter_logo](https://user-images.githubusercontent.com/75659806/233012344-720bf33d-f092-49bb-9a6c-bd270bfaba97.png)
 
+![flutter_logo](https://user-images.githubusercontent.com/75659806/233012344-720bf33d-f092-49bb-9a6c-bd270bfaba97.png)
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/75659806/233005876-4dcf4799-f47c-44b2-a651-8212bc7f7c00.svg)
 --
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jin-vita&show_icons=true&theme=cobalt)
